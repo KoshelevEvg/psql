@@ -1,7 +1,11 @@
 # psql
 Postgres training
 
-*Lesson 1*
+## Содержание
+- [Lesson 1](#Lesson-1)
+- [Lesson 2](#Lesson-2)
+
+# Lesson 1
 
 ```postgresql
 select count(*) from book.tickets;
@@ -15,7 +19,7 @@ select count(*) from book.tickets;
 ]
 ```
 
-*Lesson 2*
+# Lesson 2
 
 **Работа с уровнем изоляции read commited**
 
